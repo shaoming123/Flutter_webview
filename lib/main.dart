@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whacksmack/webview_container.dart';
+import 'package:Flutter_webview/webview_container.dart';
 
 void main() {
   runApp(const MyApp());
